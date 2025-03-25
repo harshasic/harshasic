@@ -21,8 +21,6 @@ I'm Harsha, a passionate Software Development Engineer with a strong background 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshasic&layout=compact&theme=dark)
 
-### 📌 Pinned Repositories:
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=harshasic&repo=your-repo&theme=dark)](https://github.com/harshasic/your-repo)
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
