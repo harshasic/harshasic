@@ -19,7 +19,16 @@ I'm a passionate **Software Development Engineer** with a Master's in **Computer
 ### 📊 GitHub Stats:
 ![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshasic&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshasic&layout=compact&theme=dark)
+
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 ### 🤝 Let's Connect!
