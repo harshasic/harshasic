@@ -7,7 +7,7 @@ I'm Harsha, a passionate Software Development Engineer with a strong background 
 - 🌱 I’m currently learning **Spring Boot, React, AWS, and advanced DSA**.
 - 💡 I love exploring **system design, DevOps, and cloud computing**.
 - 💬 Ask me about **Data Structures & Algorithms, Java, Python, and Backend Development**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/sai-harsha-57822ab0/)) | [Email](mailto:saiharshaic@gmail.com)
 
 ### 🛠️ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
