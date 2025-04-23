@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate **Software Development Engineer** with a Master's in **Computer Science** from **Purdue University Indianapolis**. I enjoy solving complex problems, building scalable solutions, and continuously learning new technologies.
+I'm a passionate **Software Development Engineer** with a Master's in **Computer Science** from **Purdue University Indianapolis**. I enjoy solving complex problems, building scalable solutions, and continuously learning new technologies. To me, the beauty of computer science is ideas built on silicon.
 
 ### 🚀 About Me
 - 🔭 I’m currently seeking an **SDE role** where I can leverage my experience in **Java, Python, C++**, and software development.
